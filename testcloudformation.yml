@@ -1,0 +1,10 @@
+Description: >
+    Arjun Singh / testing features
+    this template deploys VPC
+Resources:
+  AWSTestVPC:
+        Type: 'AWS::EC2::VPC'
+        Properties:
+          CidrBlock: 172.31.1.0/24
+          EnableDnsHostnames: true 
+   
