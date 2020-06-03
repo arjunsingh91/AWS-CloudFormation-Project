@@ -1,2 +1,2 @@
 # AWS-CloudFormation-Project
-AWS Infrastructure as a code project 
+AWS Infrastructure-as-a-code project 
